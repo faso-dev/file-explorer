@@ -1,0 +1,19 @@
+{
+  "name": "onass/file-explorer",
+  "authors": [
+    {
+      "name": "Jerome Onadja",
+      "email": "jeromeonadja28@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "functions.php",
+      "api.php"
+    ],
+    "classmap": [
+      "classes"
+    ]
+  }
+}
